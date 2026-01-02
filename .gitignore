@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Tableau temp files
+*.twb~
+*.twbx~
+
+# Databases
+*.db
